@@ -336,10 +336,13 @@ Coba tambah, edit, atau hapus data. Semua harus berjalan normal.
 ## Logout:
 Klik menu Logout. Kamu akan kembali ke halaman login.
 
-<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e5d9a64c-8928-4123-b4e9-67ce7d0168e5" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/85767408-36bc-4a67-9734-bdda50536e11" />
+
 
 ## Profil
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/ddbe1265-4e90-4c2f-8194-0402f978b907" />
 
 
 
