@@ -303,7 +303,7 @@ exit;
 
 # LANGKAH UJI COBA
 
-- Akses Halaman Artikel (Tanpa Login):
+## Akses Halaman Artikel (Tanpa Login):
 Buka browser: http://localhost/lab11_php_oop/artikel/index.
 Hasil: Kamu seharusnya otomatis terlempar (redirect) ke halaman user/login.
 
@@ -313,7 +313,7 @@ Hasil: Kamu seharusnya otomatis terlempar (redirect) ke halaman user/login.
 
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e5d9a64c-8928-4123-b4e9-67ce7d0168e5" />
 
-- Lakukan Login:
+## Lakukan Login:
 Masukkan username: admin dan password: admin123.
 Hasil: Jika sukses, kamu akan diarahkan ke halaman artikel, dan di pojok kanan atas
 muncul menu "Logout (Administrator)".
@@ -322,7 +322,26 @@ muncul menu "Logout (Administrator)".
 
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/bd39a4ac-f3f9-45f6-873a-2371f5bdbcb0" />
 
-- Akses CRUD:
+## Akses CRUD:
 Coba tambah, edit, atau hapus data. Semua harus berjalan normal.
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/52e7c203-61c5-4922-b07f-6381ae7f5b53" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/02500db6-16e8-4a33-bf2f-255a725e333e" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/91633f18-2fc9-488c-9010-0c18da1ef9bd" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/7a8c0e34-64cb-4c9f-a48b-7d547541fe02" />
+
+## Logout:
+Klik menu Logout. Kamu akan kembali ke halaman login.
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e5d9a64c-8928-4123-b4e9-67ce7d0168e5" />
+
+## Profil
+
+
+
+
 
 
