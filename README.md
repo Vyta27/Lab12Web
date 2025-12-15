@@ -307,6 +307,13 @@ exit;
 Buka browser: http://localhost/lab11_php_oop/artikel/index.
 Hasil: Kamu seharusnya otomatis terlempar (redirect) ke halaman user/login.
 
-<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e5d9a64c-8928-4123-b4e9-67ce7d0168e5" />
 
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/5b30e49b-3d3d-49e9-8d26-3331115daf46" />
+
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e5d9a64c-8928-4123-b4e9-67ce7d0168e5" />
+
+- Lakukan Login:
+Masukkan username: admin dan password: admin123.
+Hasil: Jika sukses, kamu akan diarahkan ke halaman artikel, dan di pojok kanan atas
+muncul menu "Logout (Administrator)".
