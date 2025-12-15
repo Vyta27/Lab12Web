@@ -321,3 +321,8 @@ muncul menu "Logout (Administrator)".
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/85767408-36bc-4a67-9734-bdda50536e11" />
 
 <img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/bd39a4ac-f3f9-45f6-873a-2371f5bdbcb0" />
+
+- Akses CRUD:
+Coba tambah, edit, atau hapus data. Semua harus berjalan normal.
+
+
