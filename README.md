@@ -301,3 +301,8 @@ exit;
 Buka browser: http://localhost/lab11_php_oop/artikel/index.
 Hasil: Kamu seharusnya otomatis terlempar (redirect) ke halaman user/login.
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/378f8c7d-8a84-4f0b-ab95-b59d38a2716d" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/28177099-e2fe-459f-9ad5-523b625cd6ef" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/074fa375-e8f8-407e-9129-5f8a864148db" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/d3630f39-9339-45b7-850c-50669dbaf672" />
